@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- TODO - show settings btn, not search btn -->
+    <item
+        android:id="@+id/settingsBtn"
+        android:icon="@drawable/search"
+        android:showAsAction="always"
+        android:title="@string/settings_label"
+        tools:ignore="AppCompatResource" />
+</menu>

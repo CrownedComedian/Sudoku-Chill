@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="divider_dark">#8a857e</color>
+    <color name="divider_light">#9e9990</color>
+    <color name="error_background">#f7f0d9</color>
+    <color name="error_text">#da3d43</color>
+    <color name="highlighted_background">#fbf0d9</color>
+    <color name="immutable_background">#f2f0ec</color>
+    <color name="immutable_text">#b4bcbe</color>
+    <color name="selected_background">#fbf5e9</color>
+    <color name="selected_text">#b1afaa</color>
+    <color name="square_background">#fffcf6</color>
+    <color name="square_text">#ccc9c3</color>
+</resources>

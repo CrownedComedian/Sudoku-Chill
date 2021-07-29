@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sudoku Chill</string>
+    <string name="new_game">New Game</string>
+    <string name="resume">Resume</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="beginner_difficulty">Beginner</string>
+    <string name="easy_difficulty">Easy</string>
+    <string name="medium_difficulty">Medium</string>
+    <string name="hard_difficulty">Hard</string>
+    <string name="expert_difficulty">Expert</string>
+
+    <string name="time">time</string>
+
+    <string name="achievements">Achievements</string>
+    <string name="search_hint">type to search for achievements</string>
+    <string name="achievement_title">Achievement Title</string>
+    <string name="description">Description.</string>
+
+    <string name="todo">TODO</string>
+
+    <string name="search_activity_label">Search Achievements</string>
+    <string name="theme_label">Change Color Theme</string>
+    <string name="settings_label">Settings</string>
+</resources>
